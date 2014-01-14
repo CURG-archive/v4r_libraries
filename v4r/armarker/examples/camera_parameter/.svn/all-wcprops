@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter
+END
+intrinsicDistored.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/intrinsicDistored.xml
+END
+distortions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/distortions.xml
+END
+distortions2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/distortions2.xml
+END
+intrinsicUndistored.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/intrinsicUndistored.xml
+END
+imgsize.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/imgsize.xml
+END
+intrinsicDistored_fw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/intrinsicDistored_fw.xml
+END
+distortions_fw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/distortions_fw.xml
+END
+intrinsicUndistored_fw.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/camera_parameter/intrinsicUndistored_fw.xml
+END

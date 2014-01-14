@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/armuser/ros/rosbuild_src/v4r_libraries/build/devel/setup.sh

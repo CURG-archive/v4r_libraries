@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libv4rgeometry.so -o ../../../lib/libv4rgeometry.so CMakeFiles/v4rgeometry.dir/plane.cpp.o CMakeFiles/v4rgeometry.dir/line.cpp.o CMakeFiles/v4rgeometry.dir/blob.cpp.o -L/opt/ros/groovy/lib 

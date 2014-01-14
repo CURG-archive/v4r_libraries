@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/ros/!svn/ver/53/acin/v4r_libraries
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ros/!svn/ver/39/acin/v4r_libraries/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ros/!svn/ver/39/acin/v4r_libraries/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ros/!svn/ver/53/acin/v4r_libraries/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/ros/!svn/ver/39/acin/v4r_libraries/Makefile
+END

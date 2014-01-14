@@ -1,0 +1,7 @@
+add_subdirectory(armarker)
+add_subdirectory(bayer2rgb)
+add_subdirectory(checkerboard)
+add_subdirectory(colors)
+add_subdirectory(cvextensions)
+add_subdirectory(geometry)
+add_subdirectory(utils)

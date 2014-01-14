@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions
+END
+polygontest_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions/polygontest_cv.h
+END
+coordinates_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions/coordinates_cv.h
+END
+operator_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions/operator_cv.h
+END
+print_cv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions/print_cv.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/cvextensions/CMakeLists.txt
+END

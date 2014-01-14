@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples
+END
+intrinsicDistored.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/intrinsicDistored.xml
+END
+distortions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/distortions.xml
+END
+main_marker_fw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/main_marker_fw.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/main.cpp
+END
+main_marker_pose.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/main_marker_pose.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/armarker/examples/CMakeLists.txt
+END

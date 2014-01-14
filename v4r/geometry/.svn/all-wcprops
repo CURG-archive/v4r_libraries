@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ros/!svn/ver/53/acin/v4r_libraries/v4r/geometry
+END
+stereovision.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/stereovision.h
+END
+plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/plane.cpp
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/plane.h
+END
+structs_clic.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/structs_clic.h
+END
+pose.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ros/!svn/ver/53/acin/v4r_libraries/v4r/geometry/pose.h
+END
+transformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/transformation.h
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/structs.h
+END
+quaterion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/quaterion.h
+END
+line3dbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/line3dbase.h
+END
+blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/blob.cpp
+END
+blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/blob.h
+END
+linebase.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/linebase.h
+END
+line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/line.cpp
+END
+stereovision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/stereovision.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/ros/!svn/ver/53/acin/v4r_libraries/v4r/geometry/CMakeLists.txt
+END
+line.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/geometry/line.h
+END

@@ -1,0 +1,20 @@
+<package>
+  <description brief="v4r_libraries">
+
+     v4r_libraries
+
+  </description>
+  <author>Markus Bader</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/v4r_libraries</url>
+  <depend package="opencv2"/>
+  <rosdep name="boost" />
+  <export>
+    <cpp cflags="-I${prefix}/" lflags="-L${prefix}/lib" />
+# -lv4rcamerageometry  -lv4rcanny -lv4rcheckerboard -lv4rcmvision -lv4rcolors -lv4rcontour 
+# -lv4rfw -lv4rgeometry -lv4rhl -lv4rlinedetector -lv4rmarker -lv4rmcl -lv4rutils  -lv4redgelinker
+  </export>
+</package>
+
+

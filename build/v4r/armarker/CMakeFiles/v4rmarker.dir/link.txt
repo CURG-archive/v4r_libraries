@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libv4rmarker.so -o ../../../lib/libv4rmarker.so CMakeFiles/v4rmarker.dir/detection.cpp.o CMakeFiles/v4rmarker.dir/pattern.cpp.o CMakeFiles/v4rmarker.dir/hdl.cpp.o -L/opt/ros/groovy/lib ../../../lib/libar.a -Wl,-rpath,/opt/ros/groovy/lib: 

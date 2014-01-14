@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/checkerboard
+END
+checkerboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/checkerboard/checkerboard.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/checkerboard/CMakeLists.txt
+END
+checkerboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/checkerboard/checkerboard.cpp
+END

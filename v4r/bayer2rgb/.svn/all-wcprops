@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/bayer2rgb
+END
+main_bayer2rgb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/bayer2rgb/main_bayer2rgb.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/ros/!svn/ver/39/acin/v4r_libraries/v4r/bayer2rgb/CMakeLists.txt
+END

@@ -1,0 +1,86 @@
+10
+
+dir
+122
+https://svn.acin.tuwien.ac.at/ros/acin/v4r_libraries/v4r
+https://svn.acin.tuwien.ac.at/ros
+
+
+
+2011-03-28T09:36:00.334186Z
+53
+markus.bader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5fac838e-ddc2-47cb-b20e-70b48c80ce28
+
+bayer2rgb
+dir
+
+utils
+dir
+
+colors
+dir
+
+rosextensions
+dir
+
+armarker
+dir
+
+cvextensions
+dir
+
+geometry
+dir
+
+checkerboard
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2011-08-24T18:44:32.629662Z
+51eec812447a79a035d9eb731291f9dd
+2011-02-28T13:42:26.029465Z
+39
+markus.bader
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+193
+
