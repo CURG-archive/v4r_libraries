@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libv4rcheckerboard.so -o ../../../lib/libv4rcheckerboard.so CMakeFiles/v4rcheckerboard.dir/checkerboard.cpp.o -L/opt/ros/groovy/lib 

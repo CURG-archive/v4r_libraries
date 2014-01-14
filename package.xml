@@ -1,15 +1,21 @@
 <package>
-  <description brief="v4r_libraries">
+<name>v4r_libraries</name>
+<version>1.0.0</version>
+  <maintainer email="jvarley@cs.columbia.edu">Jake Varley</maintainer>
+  <description>
 
      v4r_libraries
 
   </description>
   <author>Markus Bader</author>
   <license>BSD</license>
-  <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/v4r_libraries</url>
-  <depend package="opencv2"/>
-  <rosdep name="boost" />
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>opencv2</build_depend>
+  <build_depend>boost</build_depend>
+
   <export>
     <cpp cflags="-I${prefix}/" lflags="-L${prefix}/lib" />
 # -lv4rcamerageometry  -lv4rcanny -lv4rcheckerboard -lv4rcmvision -lv4rcolors -lv4rcontour 

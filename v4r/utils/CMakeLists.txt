@@ -18,6 +18,8 @@ ELSE()
 add_library(v4rutils STATIC ${UTILS_CPP} ${UTILS_H})
 ENDIF()
 
+target_link_libraries(v4rutils ${Boost_LIBS} ${catkin_LIBRARIES})
+
 
 INSTALL(FILES ${UTILS_H} 
  DESTINATION /usr/include/v4r/utils)

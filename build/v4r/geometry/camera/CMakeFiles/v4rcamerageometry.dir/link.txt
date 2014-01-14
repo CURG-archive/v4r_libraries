@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libv4rcamerageometry.so -o ../../../../lib/libv4rcamerageometry.so CMakeFiles/v4rcamerageometry.dir/camerageometry.cpp.o CMakeFiles/v4rcamerageometry.dir/triangulate.cpp.o -L/opt/ros/groovy/lib 

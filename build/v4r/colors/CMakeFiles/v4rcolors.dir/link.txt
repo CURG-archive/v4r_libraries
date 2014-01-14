@@ -1,1 +1,0 @@
-/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libv4rcolors.so -o ../../../lib/libv4rcolors.so CMakeFiles/v4rcolors.dir/colors.cpp.o -L/opt/ros/groovy/lib 
