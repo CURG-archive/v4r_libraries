@@ -1,4 +1,4 @@
-add_subdirectory(armarker)
+#add_subdirectory(armarker)
 add_subdirectory(bayer2rgb)
 add_subdirectory(checkerboard)
 add_subdirectory(colors)
