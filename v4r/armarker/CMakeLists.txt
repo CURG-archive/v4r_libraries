@@ -24,7 +24,7 @@ set (ARMARKER_CPP  detection.cpp pattern.cpp hdl.cpp)
 
 include_directories(./)
 add_library(v4rmarker SHARED ${ARMARKER_H} ${ARMARKER_CPP})
-target_link_libraries(v4rmarker ar)
+target_link_libraries(v4rmarker ar ${OPENCV_LIBRARIES})
 
 add_subdirectory(AR)
 add_subdirectory(examples)
